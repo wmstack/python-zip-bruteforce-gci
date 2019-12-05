@@ -18,4 +18,4 @@ optional arguments:
 ```
 # Demo
 
-<a href="https://asciinema.org/a/V2wtNlTDT1hpEQ5q4HE9YUEkJ" target="_blank"><img src="https://asciinema.org/a/V2wtNlTDT1hpEQ5q4HE9YUEkJ.png" width="600" /></a>
+<a href="https://asciinema.org/a/BZQzZ9DryA5KOJVN6gwVv1rgd" target="_blank"><img src="https://asciinema.org/a/BZQzZ9DryA5KOJVN6gwVv1rgd.png" width="600" /></a>
