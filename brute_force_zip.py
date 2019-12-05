@@ -17,14 +17,14 @@ with zipfile.ZipFile(zip_file_name,'r') as zip_file:
             try :
                 password_bytes = line.rstrip('\n').encode('utf-8')
                 zip_file.extractall(pwd=password_bytes)
-                print('success')
+                print('Succesfully extracted zip')
                 try :
                     zip_file.extractall()
-                    print('zip is unencrypted');
+                    print('Zip file is unencrypted');
                 except:
                     print( 'password is {}'.format(line.rstrip('\n')) )
                 break
             except:
                 pass
         else:
-            print('fail, no password matched')
+            print('Failed to extract zip, no password matched')
