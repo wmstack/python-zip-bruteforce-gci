@@ -16,3 +16,6 @@ optional arguments:
   -h, --help  show this help message and exit
 
 ```
+#Demo
+
+<a href="https://asciinema.org/a/V2wtNlTDT1hpEQ5q4HE9YUEkJ" target="_blank"><img src="https://asciinema.org/a/V2wtNlTDT1hpEQ5q4HE9YUEkJ.png" width="600" /></a>
